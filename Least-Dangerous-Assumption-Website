@@ -1,0 +1,9 @@
+Least-Dangerous-Assumption-Website/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── assets/
+    └── images/
